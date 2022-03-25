@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Biplakant
+- 👋 Hi, I’m @Biplav kant
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learnings for Data science
 - 💞️ I’m looking to collaborate on ...simplilearn
